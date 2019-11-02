@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for Dagu4Motor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Dagu4Motor	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setMotorDirection	KEYWORD2
+getMotorDirection	KEYWORD2
+setSpeed		KEYWORD2
+stopMotor		KEYWORD2
+getCurrent		KEYWORD2
+getSpeed		KEYWORD2
+setValue		KEYWORD2
+getLastPulse    KEYWORD2
+incSpeed        KEYWORD2
+decSpeed        KEYWORD2
